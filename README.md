@@ -2,7 +2,34 @@
 
 This is a metadata library for pocket tags that I use.
 
+**NEED OF ARTICLE**
 
-| resource      |  |   text        |
-| Information   |       |   video       |
-| Tool          | are neat      |               |
+| Tags          | Description                      |
+|:-------------:|:--------------------------------:|
+| resource      | Contains stuff that maybe useful |
+| Information   | Contains Information             |
+| Tool          | Is a useful Tool                 |
+
+
+**Data Type of Article**
+
+| Type          | Description                      |
+|:-------------:|:--------------------------------:|
+| Text          | Text type data in the article    |
+| Vidoe         | Contains video based items       |
+
+**Context of the Article**
+
+| Type            | Description                      |
+|:---------------:|:--------------------------------:|
+| NLP             | Natural Language Processing      |
+| DL-ML           | AI and ML-DL                     |
+| Economics       | Econ                             |
+| Finance         | Banking,finance,investment       |
+| Politics        | Policies and government          |
+| Programmin      | Coding and stuff                 |
+| Entrepreneurship| Startups and Businesses          |
+| Books           | Books and reading                |
+| Misc            | Everything Else                  |
+
+This is not an exhaustive list of items and I might change them later too.
