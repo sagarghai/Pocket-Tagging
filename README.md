@@ -16,7 +16,7 @@ This is a metadata library for pocket tags that I use.
 | Type          | Description                      |
 |:-------------:|:--------------------------------:|
 | Text          | Text type data in the article    |
-| Vidoe         | Contains video based items       |
+| Video         | Contains video based items       |
 
 **Context of the Article**
 
@@ -30,6 +30,7 @@ This is a metadata library for pocket tags that I use.
 | Programmin      | Coding and stuff                 |
 | Entrepreneurship| Startups and Businesses          |
 | Books           | Books and reading                |
+| Entertainment   | TV,VIdeo and stuff               |
 | Misc            | Everything Else                  |
 
 This is not an exhaustive list of items and I might change them later too.
