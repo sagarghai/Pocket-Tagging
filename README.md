@@ -33,6 +33,7 @@ This is a metadata library for pocket tags that I use.
 | Startups        | Startups and Businesses          |
 | Books           | Books and reading                |
 | Entertainment   | TV,VIdeo and stuff               |
+| Technology      | Technology related items         |
 | Misc            | Everything Else                  |
 
 This is not an exhaustive list of items and I might change them later too.
