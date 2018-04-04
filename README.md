@@ -24,6 +24,7 @@ This is a metadata library for pocket tags that I use.
 |:---------------:|:--------------------------------:|
 | NLP             | Natural Language Processing      |
 | ML-DL           | AI and ML-DL                     |
+| Reading         | Literature and Reading           |
 | Economics       | Econ                             |
 | Finance         | Banking,finance,investment       |
 | Politics        | Policies and government          |
