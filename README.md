@@ -24,11 +24,13 @@ This is a metadata library for pocket tags that I use.
 |:---------------:|:--------------------------------:|
 | NLP             | Natural Language Processing      |
 | ML-DL           | AI and ML-DL                     |
+| Computer Vision | CV, image recog etc.             |
 | Reading         | Literature and Reading           |
 | Economics       | Econ                             |
 | Finance         | Banking,finance,investment       |
 | Politics        | Policies and government          |
-| Programmin      | Coding and stuff                 |
+| Programming     | Coding and stuff                 |
+| Philosophy      | Life and stuff                   |
 | Entrepreneurship| Entrpreneurship philosophy       |
 | Startups        | Startups and Businesses          |
 | Books           | Books and reading                |
