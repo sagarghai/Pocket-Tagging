@@ -29,7 +29,8 @@ This is a metadata library for pocket tags that I use.
 | Finance         | Banking,finance,investment       |
 | Politics        | Policies and government          |
 | Programmin      | Coding and stuff                 |
-| Entrepreneurship| Startups and Businesses          |
+| Entrepreneurship| Entrpreneurship philosophy       |
+| Startups        | Startups and Businesses          |
 | Books           | Books and reading                |
 | Entertainment   | TV,VIdeo and stuff               |
 | Misc            | Everything Else                  |
