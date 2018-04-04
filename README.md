@@ -23,7 +23,7 @@ This is a metadata library for pocket tags that I use.
 | Type            | Description                      |
 |:---------------:|:--------------------------------:|
 | NLP             | Natural Language Processing      |
-| DL-ML           | AI and ML-DL                     |
+| ML-DL           | AI and ML-DL                     |
 | Economics       | Econ                             |
 | Finance         | Banking,finance,investment       |
 | Politics        | Policies and government          |
