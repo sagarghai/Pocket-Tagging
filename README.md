@@ -1,4 +1,7 @@
+
 # Pocket-Tagging
+
+Pocket is a tool used for keeping track of readings that you discover online but you dont have the time to go through at that time and therefore you have the to keep them stored somewhere. It also allows you to tag things in order to find the right things at the right time. You can also create public recommendations which can be used as your personally liked stuff. Best part is, it is **mozilla** owned.
 
 This is a metadata library for pocket tags that I use.
 
