@@ -38,4 +38,4 @@ This is a metadata library for pocket tags that I use.
 | Technology      | Technology related items         |
 | Misc            | Everything Else                  |
 
-This is not an exhaustive list of items and I might change them later too.
+This is not an exhaustive list of items and will change as and when i discover new things.
